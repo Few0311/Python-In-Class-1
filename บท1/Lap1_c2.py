@@ -1,0 +1,6 @@
+print("ID : 69-060-21611-447")
+print("English Name : Nuttapol Pornlert")
+print("Thai Name : ณัฐพล พรเลิศ")
+print("Nickname : Gafild")
+print("Sex : Male")
+print("Age : 18")

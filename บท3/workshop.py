@@ -1,0 +1,11 @@
+#WorkShop 3_1
+qty =  int(input("Enter number product : "))
+price = float(input("Price per unit : "))
+
+total = qty * price
+print( "Total money : ",total)
+pay = float(input("Enter pay money : "))
+change = pay - total
+print("Money change : ",change)
+
+#รับค่าสินค้า ราคาสินค้า รับเงิน ทอนเงิน
