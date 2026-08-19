@@ -28,4 +28,3 @@ print(f"ราคารวมสินค้า :  {price:,.2f} บาท")
 print(f"ส่วนลดตามยอดซื้อ ({discount1:.1f}%): {discount_product:.2f} บาท\nส่วนลดสมาชิก  ({discount_member:.1f}%): {discount_allmember:,.2f} บาท")
 print(f"ส่วนลดรวมทั้งหมด : {total_discount:,.2f} บาท\n{space1}\nยอดเงินที่ต้องจ่ายจริง : {total_price:,.2f} บาท\nจำนวนเงินที่รับมา : {Receive_payment:,.2f} บาท")
 print(f"จำนวนเงินทอน : {Receive_payment - total_price:,.2f} บาท")
-
