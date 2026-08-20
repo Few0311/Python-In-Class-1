@@ -1,5 +1,5 @@
 #String Index
-name = 'Nuttapol'
+name = input('Enter name')
 print('Length of your name:', len(name))
 print('name position 0:', name[0])
 print('name position 1:', name[1])
