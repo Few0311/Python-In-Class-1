@@ -2,7 +2,7 @@
 total = 0
 avg = 0
 for i in range (1,6,1):
-    number = int(input("Enter Number #"+str(i)+":"))
+    number = int(input("Enter Number #"(i)":"))
     total = total + number
     avg = total/5
 print("="*22)
