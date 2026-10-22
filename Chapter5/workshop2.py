@@ -1,3 +1,4 @@
+#WorkShop 5_2
 num1 = int(input("Enter value number 1 : "))
 num2 = int(input("Enter value number 2 : "))
 num3 = int(input("Enter value number 3 : "))
